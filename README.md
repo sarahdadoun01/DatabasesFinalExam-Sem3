@@ -76,8 +76,9 @@ In this project, I demonstrated the following SQL skills:
 
 ## Instructions
 1. Clone this repository to your local environment:
+
 ```bash
-git clone https://github.com/yourusername/databases2-final.git
+git clone https://github.com/yourusername/databases2-final.git```
 
 ---
 
