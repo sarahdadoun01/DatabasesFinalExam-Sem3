@@ -79,6 +79,7 @@ In this project, I demonstrated the following SQL skills:
 ```bash
 git clone https://github.com/yourusername/databases2-final.git
 
+---
 
 ### Next Steps:
 1. Replace `your_name` with your actual name in all references (e.g., `john_doe_f1`).
