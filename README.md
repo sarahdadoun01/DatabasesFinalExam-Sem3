@@ -8,7 +8,6 @@ This repository contains all the files and scripts I created for my **Databases 
 - [Contents](#contents)
 - [Skills Demonstrated](#skills-demonstrated)
 - [Instructions](#instructions)
-- [Notes](#notes)
 
 ## Overview
 This project contains SQL scripts and documentation showcasing my ability to work with databases. The tasks included creating functions, procedures, and triggers, as well as managing database packages. The work was split into two parts: **written exercises** and **practical SQL implementation** using Oracle SQL tools.
@@ -78,21 +77,4 @@ In this project, I demonstrated the following SQL skills:
 1. Clone this repository to your local environment:
 
 ```bash
-git clone https://github.com/yourusername/databases2-final.git```
-
----
-
-### Next Steps:
-1. Replace `your_name` with your actual name in all references (e.g., `john_doe_f1`).
-2. Add actual filenames for your scripts and screenshots.
-3. If you don’t have screenshots yet, take them after running the scripts and update the README file paths.
-
----
-
-## Notes
-
-If you encounter any issues running the scripts, make sure to:
-
-Use the appropriate user schema in your Oracle SQL environment.
-Adjust table or column names in the scripts if they differ from your database setup.
-Check for dependencies, such as user privileges for creating packages and triggers.
+git clone https://github.com/yourusername/databases2-final.git
